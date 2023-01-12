@@ -1,6 +1,6 @@
 name: nestjs-simple
 description: Simple NestJS microservice
-homepage: https://github.com/architect-community/nestjs-microservices/simple
+homepage: https://github.com/architect-community/nestjs-microservices
 keywords:
   - nestjs
   - examples

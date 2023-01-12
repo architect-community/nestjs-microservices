@@ -27,7 +27,7 @@ Architect component specs are declarative, so it can be run locally or remotely 
 ```sh
 # Clone the repository and navigate to this directory
 $ git clone git@github.com:architect-community/nestjs-microservices.git
-$ cd ./nestjs-microservices/simple
+$ cd ./nestjs-microservices
 
 # Register the dependent components to the local registry
 $ architect link ./architect.yml
